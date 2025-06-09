@@ -88,9 +88,10 @@ header {
   width: 124px;
   margin-top: 20px;
 }*/
-.logo {
+header img {
   max-width: 100%;
   height: auto;
+  display: block;
 }
 
 
