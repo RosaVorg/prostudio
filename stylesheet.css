@@ -85,7 +85,7 @@ header {
 }
 
 /* ★★★★★★★ */
-header .logo {
+.logo {
   /*height: 100%;*/
   height: 65px;
   width: auto;
