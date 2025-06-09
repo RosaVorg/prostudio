@@ -17,11 +17,6 @@ a {
   margin: 0 auto;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-}
-
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(top.png);
@@ -89,10 +84,15 @@ header {
   z-index: 10;
 }
 
-.logo {
+/*.logo {
   width: 124px;
   margin-top: 20px;
+}*/
+.logo {
+  max-width: 100%;
+  height: auto;
 }
+
 
 .header-left {
   float: left;
