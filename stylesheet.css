@@ -96,7 +96,7 @@ header .logo {
 }
 
 .header-left {
-  float: left;
+  display: flex;
 }
 
 .header-right {
